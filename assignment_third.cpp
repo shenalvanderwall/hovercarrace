@@ -1,7 +1,6 @@
 /*
 Name: Shenal Vanderwall
 University: UClan
-G Number: G20816408
 Module: CO1301 Games Concepts
 Description: A hover car game using TL-Engine
 */
